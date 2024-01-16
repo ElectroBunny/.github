@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electrobunny&label=Profile%20views&color=1a4895&style=flat" alt="electrobunny" /> </p>
 
-- 🔭 We are currently working on our [Charged-Up-2023 season code](https://github.com/ElectroBunny/Charged-Up-2023)
+- 🔭 We are currently working on our [Crescendo-2024 season code](https://github.com/ElectroBunny/Crescendo-2024.git)
 
 - 🌱 We are currently learning **JavaScript, HTML, CSS**
 
